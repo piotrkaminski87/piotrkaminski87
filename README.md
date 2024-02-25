@@ -4,7 +4,7 @@ Hi I'm Piotr Kamiński aspiring front-end developer with a lot of willingnes to 
 
 ## Technologies
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Typescript, React, Next.js
 
 - technologies
 - projects
